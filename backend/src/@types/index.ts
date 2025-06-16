@@ -1,6 +1,6 @@
 export interface Register{
     id: number;
-    interval: string;
+    interval: number;
     date: string;
     time: string;
 }

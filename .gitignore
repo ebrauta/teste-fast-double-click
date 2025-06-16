@@ -137,3 +137,6 @@ dist
 
 # qodo
 .qodo
+
+#vscode
+.vscode
